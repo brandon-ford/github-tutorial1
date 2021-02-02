@@ -1,2 +1,2 @@
 # github-tutorial1
-This is a description of the project.
+This a README file with a basic description of the project.
